@@ -1,0 +1,44 @@
+/* simple selector form*/
+p{
+    color: darkblue;
+    
+   
+}
+
+/*generic class selector*/
+h3.major{
+    font-size: large;
+    font-style: italic;
+    font-family: 'Times New Roman',Times,Serif;
+    color: tan;
+
+}
+.major{
+    font-size:large;
+    font-style: italic;
+    font-family: 'Times New Roman',Times,Serif;
+    color: green;
+    
+    
+}
+
+/*generic class selector*/
+p.newmajor{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman',Times,Serif;
+    color: fuchsia;
+}
+
+
+
+#minor{
+    font-size: small;
+    font-style: normal;
+    font-family: Arial,Helvetica,Sans-Serif;
+    color: deepskyblue;
+    
+    
+
+}
+

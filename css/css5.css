@@ -1,0 +1,9 @@
+.delete{
+    text-decoration:line-through ;
+}
+.cap{
+    text-decoration:overline;
+}
+.attention{
+    text-decoration: underline;
+}
